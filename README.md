@@ -4,8 +4,9 @@
 ![](https://img.shields.io/badge/-python-f5f5f5.svg?logo=Python)   
 <!---
 コミットしているファイルの比率を出したい時に使用
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Kunikan4629&show_icons=true&locale=en&layout=compact)
 --->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kunikan4629&show_icons=true&locale=en&layout=compact)
+
 
 <!---
 Kunikan4629/Kunikan4629 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
