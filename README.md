@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/-BigQuery-f5f5f5.svg?logo=googlebigquery)
 ![](https://img.shields.io/badge/-Colab-f5f5f5.svg?logo=googlecolab)
 ![](https://img.shields.io/badge/-python-f5f5f5.svg?logo=Python)   
+![](https://img.shields.io/badge/-latex-f5f5f5.svg?logo=latex)   
 <!---
 コミットしているファイルの比率を出したい時に使用
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Kunikan4629&show_icons=true&locale=en&layout=compact)
